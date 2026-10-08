@@ -192,28 +192,28 @@ export const I18N = {
     },
     impressum: {
       title: 'Impressum',
-      meta: 'Angaben gemäß § 5 TMG',
+      meta: 'Angaben gemäß § 5 DDG',
       back: 'Zur Startseite',
       sections: [
         {
-          h: 'Verantwortlich für den Inhalt',
-          p: 'Selahattin Yıldız\nVereidigter Dolmetscher und Übersetzer\nHannover, Deutschland',
+          h: 'Anbieter',
+          p: 'Selahattin Yıldız\nVereidigter Dolmetscher und Übersetzer\nNauheimer Str. 6\n30455 Hannover\nDeutschland',
         },
         {
           h: 'Kontakt',
           p: 'Telefon: 0174 / 94 155 19\nE-Mail: sel.yil@t-online.de',
         },
         {
-          h: 'Berufsbezeichnung',
-          p: 'Dolmetscher und Übersetzer, allgemein beeidigt durch das Landgericht Hannover. Tätigkeit für Gerichte, Behörden, Notare, Konsulate (u. a. Türkisches Generalkonsulat) sowie Privat- und Geschäftskunden.',
+          h: 'Berufsbezeichnung und berufsrechtliche Regelungen',
+          p: 'Berufsbezeichnung: Dolmetscher und Übersetzer für die türkische Sprache, allgemein beeidigt (verliehen in der Bundesrepublik Deutschland).\nZuständige Stelle: Landgericht Hannover.\nBerufsrechtliche Regelungen: Niedersächsisches Justizgesetz (NJG).\nTätig für Gerichte, Behörden, Notare, Konsulate (u. a. Türkisches Generalkonsulat) sowie Privat- und Geschäftskunden.',
         },
         {
           h: 'Haftung für Inhalte',
-          p: 'Die Inhalte dieser Seiten wurden mit größtmöglicher Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte kann jedoch keine Gewähr übernommen werden. Als Diensteanbieter sind wir gemäß § 7 Abs. 1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich.',
+          p: 'Die Inhalte dieser Seiten wurden mit größtmöglicher Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte kann jedoch keine Gewähr übernommen werden. Als Diensteanbieter bin ich gemäß § 7 Abs. 1 DDG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich.',
         },
         {
           h: 'Haftung für Links',
-          p: 'Unser Angebot enthält Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich.',
+          p: 'Diese Website enthält Links zu externen Websites Dritter, auf deren Inhalte ich keinen Einfluss habe. Deshalb kann ich für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich.',
         },
         {
           h: 'Urheberrecht',
@@ -232,11 +232,11 @@ export const I18N = {
         },
         {
           h: 'Verantwortlicher',
-          p: 'Selahattin Yıldız\nHannover, Deutschland\nTelefon: 0174 / 94 155 19\nE-Mail: sel.yil@t-online.de',
+          p: 'Selahattin Yıldız\nNauheimer Str. 6\n30455 Hannover\nTelefon: 0174 / 94 155 19\nE-Mail: sel.yil@t-online.de',
         },
         {
           h: 'Kontaktformular',
-          p: 'Wenn Sie das Kontaktformular nutzen, werden die von Ihnen angegebenen Daten (Name, E-Mail, Nachricht, optional weitere Angaben sowie ggf. eine angehängte Datei) ausschließlich zur Bearbeitung Ihrer Anfrage gespeichert und verarbeitet. Eine Weitergabe an Dritte erfolgt nicht.',
+          p: 'Wenn Sie das Kontaktformular nutzen, werden die von Ihnen angegebenen Daten (Name, E-Mail, Nachricht, optional weitere Angaben sowie ggf. eine angehängte Datei) ausschließlich zur Bearbeitung Ihrer Anfrage verarbeitet. Die Nachricht wird per E-Mail über den Mailserver der Telekom Deutschland GmbH (t-online) an mich übermittelt; eine Weitergabe an sonstige Dritte erfolgt nicht.\nRechtsgrundlage ist Art. 6 Abs. 1 lit. b DSGVO (Bearbeitung Ihrer Anfrage bzw. vorvertragliche Maßnahmen).',
         },
         {
           h: 'Speicherdauer',
@@ -244,7 +244,7 @@ export const I18N = {
         },
         {
           h: 'Cookies & Analyse',
-          p: 'Diese Website setzt keine Cookies zu Tracking- oder Marketingzwecken ein.\nZur Reichweitenmessung wird Vercel Web Analytics der Vercel Inc. (USA) genutzt. Dabei werden ohne Cookies anonymisierte Nutzungsdaten erfasst (z. B. aufgerufene Seiten, Referrer, Land, Browser, Betriebssystem und Gerätetyp). Ein Besucher wird nur über einen Hash aus Anfragedaten wiedererkannt, der nach 24 Stunden verworfen wird; eine Identifizierung einzelner Personen oder eine seitenübergreifende Verfolgung findet nicht statt. Rechtsgrundlage ist unser berechtigtes Interesse an der Analyse und Verbesserung des Angebots (Art. 6 Abs. 1 lit. f DSGVO). Vercel ist unter dem EU-US Data Privacy Framework zertifiziert.',
+          p: 'Diese Website setzt keine Cookies zu Tracking- oder Marketingzwecken ein.\nZur Reichweitenmessung wird Vercel Web Analytics der Vercel Inc. (USA) genutzt. Dabei werden ohne Cookies anonymisierte Nutzungsdaten erfasst (z. B. aufgerufene Seiten, Referrer, Land, Browser, Betriebssystem und Gerätetyp). Ein Besucher wird nur über einen Hash aus Anfragedaten wiedererkannt, der nach 24 Stunden verworfen wird; eine Identifizierung einzelner Personen oder eine seitenübergreifende Verfolgung findet nicht statt. Rechtsgrundlage ist mein berechtigtes Interesse an der Analyse und Verbesserung des Angebots (Art. 6 Abs. 1 lit. f DSGVO). Vercel ist unter dem EU-US Data Privacy Framework zertifiziert.',
         },
         {
           h: 'Hosting & Server-Logfiles',
@@ -252,7 +252,7 @@ export const I18N = {
         },
         {
           h: 'Ihre Rechte',
-          p: 'Sie haben jederzeit das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung sowie Datenübertragbarkeit Ihrer gespeicherten Daten. Wenden Sie sich hierfür formlos per E-Mail an sel.yil@t-online.de.',
+          p: 'Sie haben jederzeit das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung sowie Datenübertragbarkeit Ihrer gespeicherten Daten. Soweit eine Verarbeitung auf meinem berechtigten Interesse beruht (Art. 6 Abs. 1 lit. f DSGVO), können Sie ihr jederzeit widersprechen (Art. 21 DSGVO). Wenden Sie sich hierfür formlos per E-Mail an sel.yil@t-online.de.\nAußerdem haben Sie das Recht, sich bei einer Datenschutz-Aufsichtsbehörde zu beschweren. Zuständig ist: Die Landesbeauftragte für den Datenschutz Niedersachsen, Prinzenstraße 5, 30159 Hannover.',
         },
       ],
     },
@@ -450,28 +450,28 @@ export const I18N = {
     },
     impressum: {
       title: 'Künye',
-      meta: 'TMG § 5 uyarınca bilgiler',
+      meta: 'DDG § 5 uyarınca bilgiler',
       back: 'Ana sayfaya dön',
       sections: [
         {
-          h: 'İçerikten sorumlu',
-          p: 'Selahattin Yıldız\nYeminli Tercüman ve Mütercim\nHannover, Almanya',
+          h: 'Hizmet sağlayıcı',
+          p: 'Selahattin Yıldız\nYeminli Tercüman ve Mütercim\nNauheimer Str. 6\n30455 Hannover\nAlmanya',
         },
         {
           h: 'İletişim',
           p: 'Telefon: 0174 / 94 155 19\nE-Posta: sel.yil@t-online.de',
         },
         {
-          h: 'Meslek unvanı',
-          p: 'Tercüman ve mütercim, Hannover Eyalet Mahkemesi tarafından genel olarak yeminli atanmıştır. Mahkemeler, kurumlar, noterler, konsolosluklar (Türk Başkonsolosluğu dahil) ve özel/ticari müvekkiller için hizmet verir.',
+          h: 'Meslek unvanı ve meslek kuralları',
+          p: 'Meslek unvanı: Türkçe dili için genel yeminli tercüman ve mütercim (Almanya Federal Cumhuriyeti\'nde verilmiştir).\nYetkili makam: Hannover Eyalet Mahkemesi (Landgericht Hannover).\nMeslek kuralları: Aşağı Saksonya Adalet Kanunu (Niedersächsisches Justizgesetz – NJG).\nMahkemeler, kurumlar, noterler, konsolosluklar (Türk Başkonsolosluğu dahil) ve özel/ticari müvekkiller için hizmet verir.',
         },
         {
           h: 'İçerik sorumluluğu',
-          p: 'Bu sayfaların içerikleri en büyük özenle hazırlanmıştır. İçeriklerin doğruluğu, eksiksizliği ve güncelliği için ise sorumluluk üstlenilemez. TMG § 7 Abs. 1 uyarınca, hizmet sağlayıcı olarak bu sayfalardaki kendi içeriklerimizden genel yasalara göre sorumluyuz.',
+          p: 'Bu sayfaların içerikleri en büyük özenle hazırlanmıştır. İçeriklerin doğruluğu, eksiksizliği ve güncelliği için ise sorumluluk üstlenilemez. DDG § 7 Abs. 1 uyarınca, hizmet sağlayıcı olarak bu sayfalardaki kendi içeriklerimden genel yasalara göre sorumluyum.',
         },
         {
           h: 'Bağlantı sorumluluğu',
-          p: 'Hizmetimiz, içeriği üzerinde herhangi bir etkimiz olmayan üçüncü tarafların harici web sitelerine bağlantılar içerir. Bu yabancı içerikler için sorumluluk üstlenilemez. Bağlantılı sayfaların içeriklerinden her zaman ilgili sağlayıcı veya işletici sorumludur.',
+          p: 'Bu web sitesi, içeriği üzerinde herhangi bir etkim olmayan üçüncü tarafların harici web sitelerine bağlantılar içerir. Bu yabancı içerikler için sorumluluk üstlenilemez. Bağlantılı sayfaların içeriklerinden her zaman ilgili sağlayıcı veya işletici sorumludur.',
         },
         {
           h: 'Telif hakkı',
@@ -490,11 +490,11 @@ export const I18N = {
         },
         {
           h: 'Sorumlu',
-          p: 'Selahattin Yıldız\nHannover, Almanya\nTelefon: 0174 / 94 155 19\nE-Posta: sel.yil@t-online.de',
+          p: 'Selahattin Yıldız\nNauheimer Str. 6\n30455 Hannover\nTelefon: 0174 / 94 155 19\nE-Posta: sel.yil@t-online.de',
         },
         {
           h: 'İletişim formu',
-          p: 'İletişim formunu kullandığınızda, verdiğiniz bilgiler (ad, e-posta, mesaj, isteğe bağlı ek bilgiler ve varsa eklenen dosya) yalnızca talebinizin işlenmesi için saklanır ve işlenir. Üçüncü taraflara aktarım yapılmaz.',
+          p: 'İletişim formunu kullandığınızda, verdiğiniz bilgiler (ad, e-posta, mesaj, isteğe bağlı ek bilgiler ve varsa eklenen dosya) yalnızca talebinizin işlenmesi için işlenir. Mesaj, Telekom Deutschland GmbH\'nin (t-online) e-posta sunucusu üzerinden bana iletilir; bunun dışında üçüncü taraflara aktarım yapılmaz.\nHukuki dayanak GDPR Madde 6/1 b\'dir (talebinizin işlenmesi veya sözleşme öncesi tedbirler).',
         },
         {
           h: 'Saklama süresi',
@@ -502,7 +502,7 @@ export const I18N = {
         },
         {
           h: 'Çerezler & Analiz',
-          p: 'Bu web sitesi takip veya pazarlama amaçlı çerez kullanmaz.\nZiyaretçi istatistikleri için Vercel Inc. (ABD) tarafından sunulan Vercel Web Analytics kullanılmaktadır. Çerez kullanılmadan anonimleştirilmiş kullanım verileri toplanır (örn. ziyaret edilen sayfalar, yönlendiren site, ülke, tarayıcı, işletim sistemi ve cihaz türü). Bir ziyaretçi yalnızca istek verilerinden oluşturulan ve 24 saat sonra silinen bir hash ile tanınır; kişilerin kimliği belirlenmez ve siteler arası takip yapılmaz. Hukuki dayanak, hizmetin analiz edilmesi ve iyileştirilmesine yönelik meşru menfaatimizdir (GDPR Madde 6/1 f). Vercel, AB-ABD Veri Gizliliği Çerçevesi (Data Privacy Framework) kapsamında sertifikalıdır.',
+          p: 'Bu web sitesi takip veya pazarlama amaçlı çerez kullanmaz.\nZiyaretçi istatistikleri için Vercel Inc. (ABD) tarafından sunulan Vercel Web Analytics kullanılmaktadır. Çerez kullanılmadan anonimleştirilmiş kullanım verileri toplanır (örn. ziyaret edilen sayfalar, yönlendiren site, ülke, tarayıcı, işletim sistemi ve cihaz türü). Bir ziyaretçi yalnızca istek verilerinden oluşturulan ve 24 saat sonra silinen bir hash ile tanınır; kişilerin kimliği belirlenmez ve siteler arası takip yapılmaz. Hukuki dayanak, hizmetin analiz edilmesi ve iyileştirilmesine yönelik meşru menfaatimdir (GDPR Madde 6/1 f). Vercel, AB-ABD Veri Gizliliği Çerçevesi (Data Privacy Framework) kapsamında sertifikalıdır.',
         },
         {
           h: 'Barındırma & Sunucu Log dosyaları',
@@ -510,7 +510,7 @@ export const I18N = {
         },
         {
           h: 'Haklarınız',
-          p: 'Saklanan verileriniz hakkında her zaman bilgi alma, düzeltme, silme, işlemeyi kısıtlama ve veri taşınabilirliği hakkına sahipsiniz. Bunun için lütfen sel.yil@t-online.de adresine e-posta gönderin.',
+          p: 'Saklanan verileriniz hakkında her zaman bilgi alma, düzeltme, silme, işlemeyi kısıtlama ve veri taşınabilirliği hakkına sahipsiniz. Meşru menfaatime dayanan işlemelere (GDPR Madde 6/1 f) her zaman itiraz edebilirsiniz (GDPR Madde 21). Bunun için lütfen sel.yil@t-online.de adresine e-posta gönderin.\nAyrıca bir veri koruma denetim makamına şikâyette bulunma hakkınız vardır. Yetkili makam: Die Landesbeauftragte für den Datenschutz Niedersachsen, Prinzenstraße 5, 30159 Hannover.',
         },
       ],
     },
